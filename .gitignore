@@ -1,0 +1,19 @@
+# Entorno virtual
+Lib/
+Scripts/
+share/
+pyvenv.cfg
+Include/
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
